@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/assets/img/09.jpg'
+image: '/assets/img/10.jpg'
 ---
 
 Hi, my name is Danielle Ribeiro. I am a biomedical engineering student at Ryerson University. 
