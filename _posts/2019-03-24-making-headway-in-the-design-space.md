@@ -2,7 +2,7 @@
 layout: post
 title:  "Making headway in the design space: Designing a concussion app" 
 date:   2019-03-24 13:30:35 +0300
-image:  '/assets/img/04.jpg'
+image:  '/assets/img/13.jpg'
 tags:   [healthcare, head injury, software, development]
 ---
 **Software Developer, Biomedical Zone Co-Development Lab (Oct. 2018- Mar. 2019)**
