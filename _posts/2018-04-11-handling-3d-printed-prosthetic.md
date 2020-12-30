@@ -51,7 +51,8 @@ Through the Tetra Ryerson project, I gained an interest in learning more about t
 * If the budget allows, try different settings and adjustments for the 3D printed pieces and test these pieces 
 
 **Learning**
-* 
+* Settings on the 3D printer vary for each print, some prints require different build plate temperatures, printer speeds, printer nozzle thickness, bed and nozzle temperature, internal and external supports as well as overhang. 
+* These setting requirements are important for a successful build and require practice and multiple attempts to achieve the appropriate settings. 
 
 
 ![]({{site.baseurl}}/assets/img/16.jpg)
@@ -64,7 +65,9 @@ Through the Tetra Ryerson project, I gained an interest in learning more about t
 * Either adjust the design of the object or manually change the measurements of the parts by using a sander, drill etc. 
 
 **Learning**
-* 
+* If on a tight deadline, drilling and sanding the PLA plastic was an effective method of adjusting malformed objects, however it is important to go slowly as to not crack the plastic. 
+* WD40 also temporarily improved movement between parts, however is not a long term solution. 
+* It is most beneficial to re-print the objects with slight adjustments to size.
 
 
 ![]({{site.baseurl}}/assets/img/10.jpg)
@@ -85,5 +88,5 @@ Through the Tetra Ryerson project, I gained an interest in learning more about t
 ---
 
 ## Next steps
-No active next steps at the moment. Might consider refining the initial prototype.
+No active next steps at the moment. We might consider refining the initial prototype.
 
