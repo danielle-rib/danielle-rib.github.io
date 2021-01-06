@@ -19,7 +19,7 @@ I first gained an understanding of the intricacies of device development as a Pr
 
 Shortly afterwards I pursued an extracurricular position as Software Developer at the Co-Development Lab at the Ryerson Biomedical Zone  in collaboration with St. Michael's Hospital Head Injury Clinic. Through the experience designing and developing a health application I more fully understood the role technology plays as a tool shared between patient and provider to enable recovery. 
 
-My well-rounded exposure to health technology design and development has assured me this is the industry I wish to be in.
+My well-rounded exposure to health technology design and development enables me to challenge myself in this industry and support my path to success.
 
 ***
 
@@ -27,5 +27,5 @@ My well-rounded exposure to health technology design and development has assured
 
 ***
 
-I hope to learn how to take a human-centered approach to design and develop assistive devices for improved quality of life. I am in the process of pursuing a graduate degree and I look forward to one day achieving a rewarding career designing and developing technical solutions and devices to assist my uncle and others like him with physical disabilities. 
+I hope to learn how to take a human-centered approach to design and develop assistive devices for improved quality of life. I am in the process of pursuing a graduate degree and I look forward to one day achieving a rewarding career designing and developing technical solutions and devices to assist those living with physical disabilities like my uncle. 
 

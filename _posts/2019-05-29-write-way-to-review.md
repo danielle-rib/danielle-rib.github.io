@@ -7,11 +7,13 @@ tags:   [research, 3D-printing]
 ---
 **Lead Author, 3D printing and amputation: a scoping review (Jun. 2018- May. 2019)**
 
-I wrote and published a [Scoping Review "3D Printing and Amputation"][scoping-review] in the Disability and Rehabilitation: Assistive Technology Journal and was able to present this scoping review research poster at Ontario Association for Amputee Care Conference 2019. 
+I was lead author on a [scoping review "3D Printing and Amputation"][scoping-review] in the Disability and Rehabilitation: Assistive Technology Journal and was able to present this scoping review research poster at Ontario Association for Amputee Care Conference 2019. 
 
 Through this experience I was able to learn more about the research process in a clinical setting.
 
 ---
+
+**Reference Citation:** Ribeiro, Danielle & Cimino, Stephanie & Mayo, Amanda & Ratto, Matt & Hitzig, Sander. (2019). 3D printing and amputation: a scoping review. Disability and Rehabilitation: Assistive Technology. 1-20. 10.1080/17483107.2019.1646825. 
 
 ## My role
 **Lead Author**
@@ -40,11 +42,11 @@ Through this experience I was able to learn more about the research process in a
 **Challenge**
 * How do you begin researching, organizing and writing a scoping review paper? Where do you start and what needs to be done? 
 
-**Strategies to Overcome Obstacle**
+**Approach to Overcome Challenge**
 * Ask questions! 
 * Consult with a researchers and research assistants within the department 
 
-**Learning**
+**Lessons Learned**
 * Understanding the research process in a clinical setting
 
 ---
